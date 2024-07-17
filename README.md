@@ -1,5 +1,5 @@
 
-# Project Name
+# JWT
 
 ## Overview
 This project is a Node.js application built with TypeScript, utilizing Express for the server framework. It demonstrates how JSON Web Tokens (JWT) work for authentication and authorization. Docker is used to containerize the PostgreSQL database, making it easy to set up and run.
