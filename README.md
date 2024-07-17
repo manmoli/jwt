@@ -45,7 +45,7 @@ This project is a Node.js application built with TypeScript, utilizing Express f
 
 1. Clone the repository:
    ```sh
-   git clone <repository-url>
+   git clone git@github.com:manmoli/jwt.git>
    cd <repository-directory>
    ```
 
